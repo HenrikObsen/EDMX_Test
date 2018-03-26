@@ -7,8 +7,8 @@
       <Diagram DiagramId="3cd21fdb8a6a46bd92be2d171229fd8a" Name="Diagram1" DisplayType="true">
         <EntityTypeShape EntityType="PlutoModel.Author" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
         <EntityTypeShape EntityType="PlutoModel.Course" Width="1.5" PointX="5.5" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="PlutoModel.CourseSection" Width="1.5" PointX="8.875" PointY="2" IsExpanded="true" />
-        <EntityTypeShape EntityType="PlutoModel.Post" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PlutoModel.CourseSection" Width="1.5" PointX="9.375" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PlutoModel.Post" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
         <EntityTypeShape EntityType="PlutoModel.Tag" Width="1.5" PointX="4.375" PointY="6.125" IsExpanded="true" />
         <EntityTypeShape EntityType="PlutoModel.tblUser" Width="1.5" PointX="2.625" PointY="4" IsExpanded="true" />
         <AssociationConnector Association="PlutoModel.FK_Courses_Authors" ManuallyRouted="false" />
