@@ -1,0 +1,15 @@
+﻿@model List<EDMX_Test.Course>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<ul>
+
+    @foreach (Course item in Model)
+    {
+        <li>@item.Title</li>
+    }
+
+</ul>
